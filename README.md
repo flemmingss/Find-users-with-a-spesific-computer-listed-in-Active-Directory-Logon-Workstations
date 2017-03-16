@@ -10,6 +10,7 @@ In properties for a Active Directory-user you can by clicking the "Log On To"-bu
   
 **Why the script is useful**  
 In Actiive Directory there is no way to search for a computer and find which user accounts that have this computer listed as allowed in the "The following computers"-list in "Logon Workstations". With this script you CAN do just that.  
+An example of use of script is if you need to replace a defective computer, and want the same users to have access to the new computer.
   
 **How To use**  
 Before you can use this script the "Quest ActiveRoles Management Shell" must be istalled. This was freeware until v1.5.1 and can be downloaded here:  
